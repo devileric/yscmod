@@ -1,0 +1,22 @@
+# Secrets
+*.jks
+*.keystore
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output
+build/
+dist/
+output/
+*.apk
+*.aab
+YSC_AutoUpdate.exe
+
+# Local tools
+apktool.jar
+apksigner.jar
