@@ -8,7 +8,7 @@
 - 注入自动更新 Activity
 - APK 重打包
 - 对齐、签名、验证
-- 更新地址固定为 `https://4351.kstore.space/update/update.json`
+- 更新地址固定为 `https://*/update/update.json`
 
 ## 本地工具文件
 
@@ -41,7 +41,7 @@
 {
   "versionCode": 628,
   "versionName": "6.2.8",
-  "apkUrl": "https://4351.kstore.space/update/ysc.apk",
+  "apkUrl": "https://*/update/ysc.apk",
   "updateLog": "修复若干问题",
   "forceUpdate": false
 }
