@@ -13,10 +13,12 @@ venv/
 build/
 dist/
 output/
-*.apk
-*.aab
 YSC_AutoUpdate.exe
 
 # Local tools
 apktool.jar
 apksigner.jar
+
+# APKs are ignored by default, except the published update APK
+*.apk
+!update/ysc.apk
