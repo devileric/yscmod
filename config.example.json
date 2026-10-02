@@ -1,5 +1,6 @@
 {
-  "update_url": "https://4351.kstore.space/update/update.json",
+  "update_url": "https://raw.githubusercontent.com/devileric/yscmod/main/update/update.json",
+  "apk_url": "https://raw.githubusercontent.com/devileric/yscmod/main/update/ysc.apk",
   "keystore": "ysc-update.jks",
   "alias": "yscupdate",
   "password": "CHANGE_ME"
