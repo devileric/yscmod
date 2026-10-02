@@ -1,0 +1,7 @@
+{
+  "versionCode": 628,
+  "versionName": "6.2.8",
+  "apkUrl": "https://raw.githubusercontent.com/devileric/yscmod/main/update/ysc.apk",
+  "updateLog": "修复若干问题",
+  "forceUpdate": false
+}
