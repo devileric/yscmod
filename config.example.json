@@ -1,0 +1,6 @@
+{
+  "update_url": "https://4351.kstore.space/update/update.json",
+  "keystore": "ysc-update.jks",
+  "alias": "yscupdate",
+  "password": "CHANGE_ME"
+}
